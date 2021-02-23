@@ -1,0 +1,12 @@
+{
+  "name": "Pangolist",
+  "displayName": "Pangolist",
+  "expo": {
+    "name": "Pangolist",
+    "slug": "Pangolist",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
